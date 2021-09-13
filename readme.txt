@@ -1,4 +1,4 @@
-Linker by TFB 2021.
+Linker copyright TFB 2021.
 
 Latest version available at : https://github.com/TFB-code/linker
 
